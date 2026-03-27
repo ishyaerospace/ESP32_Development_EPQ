@@ -2,16 +2,16 @@
 
 
 ## projects to build skills
-Blink LED
-Button input
-PWM LED dimming
-Read analog sensor
-I2C OLED display
-Connect to WiFi
-Send data to web server
-MQTT publish/subscribe
-Deep sleep battery project
-OTA updates
+* Blink LED
+* Button input
+* PWM LED dimming
+* Read analog sensor
+* I2C OLED display
+* Connect to WiFi
+* Send data to web server
+* MQTT publish/subscribe
+* Deep sleep with battery
+* OTA updates
 
 
 ## ESP32 Communication
